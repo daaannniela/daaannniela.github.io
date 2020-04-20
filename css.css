@@ -1,0 +1,19 @@
+
+body {
+	background-color: #9EB5FF;
+}
+img {
+	max-width: 100%;
+
+}
+h1{
+		color: #59FF61;
+		font-family: 'Arial' , 'Helvetica' , sans-serif;
+	}
+
+.textBox {
+	border-style: solid;
+	width: 90%;
+	background-color: #f6acc8;
+	padding: 15px;
+}
